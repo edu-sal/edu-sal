@@ -20,42 +20,42 @@ The demo and the screenshots below use **synthetic data**. Company records are k
 
 ### Curfimex S.A. de C.V.
 
-**Data Scientist Intern** · May 2026 - Aug 2026
+**Data Scientist Intern (Full-Time, Unpaid)** · May 2026 - Aug 2026
 
-- Used Python to extract and clean company data from Excel files, combining production and material-cost records into tables for analysis.
-- Built Dash and Plotly dashboards to review monthly costs and compare customers and batches, with Codex assistance for coding and debugging.
-- Created Pareto (80/20) charts to highlight the materials accounting for most spending, along with Excel summaries of monthly results.
+- Used Python to read, clean, and combine production and material-cost data from company Excel files.
+- Created Dash and Plotly dashboards to review costs by month, customer, and batch, using Codex to help write and debug code.
+- Made Pareto (80/20) charts showing which materials contributed most to production costs and prepared monthly Excel summaries.
 
 ### FinEx Concierge Solutions, LLC
 
-**Data Analyst Intern** · May 2025 - Aug 2025
+**Data Analyst Intern (Part-Time, Unpaid)** · May 2025 - Aug 2025
 
-- Used Python to extract and clean data from ABCA PDF reports for a cannabis market-sizing project.
-- Created Python dashboards and Excel summaries using the ABCA data to compare reported figures and explore market trends.
-- Prepared charts and presentation slides explaining the findings for review with the project team and client.
+- Used Python to extract and organize data from ABCA PDF reports for a brief cannabis market research project.
+- Created Python dashboards and Excel summaries to compare figures reported in the ABCA files.
+- Prepared charts and presentation slides summarizing the findings.
 
 ## Research and student projects
 
-### Department of Mathematics and Statistics, American University
+### American University - Department of Mathematics and Statistics
 
 **Undergraduate Research Assistant (Part-Time)** · May 2026 - Aug 2026
 
-- Implemented a baseline matrix-factorization model in Python using MovieLens ratings, and documented its calculations and evaluation methods in a Jupyter notebook.
-- Ran experiments with 3 random seeds and compared prediction error, top-10 recommendation quality, and catalog coverage using tables and plots.
+- Implemented a basic matrix-factorization model for recommending movies in Python using MovieLens ratings; documented the steps and evaluation in a Jupyter notebook.
+- Repeated experiments with three random seeds and compared rating-prediction error, the quality of the top-10 recommendations, and the range of movies recommended.
 
 ### George Hacks x UN Reboot the Earth Hackathon - FoodBridge
 
-**Product & Data Contributor** · Apr 2026
+**Business & Presentation Contributor** · Apr 2026
 
-- Collaborated on a meal-planning prototype, contributing to how dietary preferences, budget, and location inputs were used to suggest meals.
-- Presented FoodBridge with the team at George Hacks x UN Reboot the Earth, placing 1st in the UN/FAO track.
+- Collaborated with software engineering students on a meal-planning prototype, contributing to the business concept and team presentation.
+- Helped prepare and deliver the pitch at a student hackathon. The team placed 1st in the UN/FAO track.
 
 ### Goldman Sachs Case Competition - American University
 
-**Team Lead** · Apr 2026
+**Team Lead (Student Case Competition)** · Apr 2026
 
-- Led a 5-member student team in developing an investment recommendation for a university endowment case competition.
-- Compared investment options against the case's return objectives, liquidity needs, and divestment requirements, and summarized the analysis in a team presentation.
+- Led a five-person student team in a case competition about a fictional university's endowment and funding needs.
+- Helped compare investment options with the case's budget needs and investment restrictions, and presented the team's recommendations.
 
 ## What I'm learning and using
 
@@ -66,3 +66,4 @@ The demo and the screenshots below use **synthetic data**. Company records are k
 I've completed coursework in probability, mathematical statistics, regression, linear algebra, algorithms and data structures, scientific computing, data mining, machine learning, and neural networks/deep learning. This semester I'm taking Database and AI (SQL), Numerical Analysis, and Advanced Machine Learning.
 
 Thanks for stopping by. Feel free to look around or get in touch about internships, research, or a project here.
+
