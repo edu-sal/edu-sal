@@ -16,6 +16,7 @@ My coursework at American University covers:
 
 - **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression.
 - **Computing and data:** Data Mining, Machine Learning, Advanced Machine Learning, Neural Networks and Deep Learning, Database Design, and SQL.
+- **Optimization (academic study):** Gradients, regularization, and Lagrange multipliers (theory); non-convex optimization in matrix-factorization recommender systems.
 
 These are subjects I've studied or am studying through coursework. I'm still building experience applying that foundation beyond the classroom.
 
