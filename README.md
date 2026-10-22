@@ -1,68 +1,66 @@
 # Hi, I'm Eduardo
 
-I'm a Statistics senior at American University, graduating in May 2027. My focus is Applied Statistics, with a minor in Mathematics.
+I'm a Statistics senior at American University, graduating in May 2027, with a focus in Applied Statistics and a Mathematics minor. I enjoy turning Excel records, PDF reports, and research results into comparisons I can explain clearly.
 
-I like making sense of data that starts out in a less convenient form: an Excel workbook, a PDF report, or a table that needs cleaning. The part I enjoy is getting from those records to a chart or comparison I can explain to someone else.
-
-My internships have involved production and cost data at Curfimex and a brief market research project using ABCA reports at FinEx. My part-time research involved movie-rating data, reviewing research literature, and explaining experimental methods and findings to my faculty mentor. This is where I share the projects I can show publicly.
-
-I'm eager to put these skills to work, keep learning from the people around me, and help a team turn analysis into findings others can understand and use.
+My work combines data analysis, substantial AI assistance for coding, and checking outputs in context. My part is to frame questions, supply data and business context, refine prompts, and interpret results. I work mainly with Python, Excel, pandas, Dash, and Plotly, and I'm eager to keep learning alongside a team.
 
 [Résumé (PDF)](https://github.com/edu-sal/edu-sal/blob/main/Eduardo_Salgado_Liceaga_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/edu-sal/) · [Email](mailto:eddy9202003@gmail.com)
 
+[Research](#research-with-dr-zois-boukouvalas) · [Academic foundations](#academic-foundations) · [Costos](#costos) · [FoodBridge](#foodbridge) · [Experience](#experience)
+
 ## Research with Dr. Zois Boukouvalas
 
-American University — Department of Mathematics and Statistics
-
+**American University — Department of Mathematics and Statistics**  
 **Undergraduate Research Assistant (Part-Time)** · May 2026 - Aug 2026
 
 Faculty mentor: [Dr. Zois Boukouvalas](https://www.american.edu/cas/mathstat/faculty/), Graduate Director of AU's MS in Data Science and MS in Artificial Intelligence programs.
 
 - Adapted a Python matrix-factorization baseline using MovieLens ratings with AI as the primary coding assistant; documented the model and evaluation in Jupyter.
 - Ran experiments with three random seeds and interpreted rating-prediction error, top-10 recommendation quality, and the range of movies recommended using tables and plots.
-- Reviewed research literature and discussed experimental methods, findings, and limitations with my faculty mentor.
+- Reviewed research literature and discussed experimental methods, findings, and limitations with faculty mentor.
 
 ## Academic foundations
 
-My coursework at American University covers:
+Subjects I've studied or am studying at American University:
 
 - **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression.
 - **Computing and data:** Data Mining, Machine Learning, Advanced Machine Learning, Neural Networks and Deep Learning, Database Design, and SQL.
-- **Optimization (academic study):** Gradients, regularization, and Lagrange multipliers (theory); non-convex optimization in matrix-factorization recommender systems.
+- **Optimization:** Gradients, regularization, and Lagrange multipliers (theory); non-convex optimization in matrix-factorization recommender systems.
+- **Machine-learning methods:** Data preprocessing, feature-engineering fundamentals, cross-validation, and model evaluation.
 
-- **Machine-learning methods (coursework):** Data preprocessing, feature-engineering fundamentals, cross-validation, and model evaluation.
+This is academic preparation; I'm continuing to build experience applying it beyond the classroom.
 
-These are subjects I've studied or am studying through coursework. I'm still building experience applying that foundation beyond the classroom.
+<a id="take-a-look-at-costos"></a>
 
-## Take a look at Costos
+## Costos
 
-**[Costos](https://github.com/edu-sal/costos-dashboard)** grew out of my Curfimex internship, where I worked with Excel cost records from tanning and leather-processing operations. I used Codex as the primary coding assistant, supplying context about the records and cost categories, refining prompts, and checking the resulting tables and charts.
+**[Explore the demo repository →](https://github.com/edu-sal/costos-dashboard)**
 
-This public demo shows a smaller part of that work: comparing monthly costs across customers and batches, exploring which materials account for most spending, and downloading Excel summaries. The demo and screenshots use **made-up data**; company records stay private.
+A public demo adapted from my Curfimex internship: compare monthly costs across customers and batches, explore the largest material costs, and download Excel summaries. I used Codex as the primary coding assistant, supplied context about the records and cost categories, refined prompts, and checked the resulting tables and charts.
 
-[![Costos monthly cost overview — synthetic data](https://raw.githubusercontent.com/edu-sal/costos-dashboard/main/assets/screenshots/overview.png)](https://github.com/edu-sal/costos-dashboard)
+**The demo and screenshot use synthetic data. Company records stay private.**
 
-[See the code and more screenshots →](https://github.com/edu-sal/costos-dashboard)
+<a href="https://github.com/edu-sal/costos-dashboard">
+  <img src="https://raw.githubusercontent.com/edu-sal/costos-dashboard/main/assets/screenshots/overview.png" alt="Costos monthly cost overview using synthetic data" width="640">
+</a>
 
-## FoodBridge: working with a team
+<a id="foodbridge-working-with-a-team"></a>
 
-**[FoodBridge](https://github.com/damianleng/food-bridge)** is an AI-powered meal-planning prototype we worked on at the George Hacks x UN Reboot the Earth student hackathon. I collaborated with software engineering students on the business concept and presentation, using AI tools to help refine our ideas and explain the project.
+## FoodBridge
 
-Our team placed first in the UN/FAO track. The repository shows the team's application; my contribution focused on the business and presentation side.
+**George Hacks x UN Reboot the Earth Hackathon**  
+**Business & Presentation Contributor** · Apr 2026
 
-[Explore the team repository](https://github.com/damianleng/food-bridge) · [Read the hackathon submission](https://devpost.com/software/food-bridge-isqzu0)
+- Collaborated with software engineering students on FoodBridge, an AI-powered meal-planning prototype, using AI tools to help refine its business concept and presentation.
+- Presented FoodBridge with the team; the team placed 1st in the hackathon's UN/FAO track.
 
-## How I work with AI
+The repository shows the team's application. My contribution focused on the business concept and presentation.
 
-I work mainly with Python, Excel, pandas, Dash, and Plotly, with substantial AI assistance for coding and debugging. My part is to frame the question, explain the data and its business context, refine the prompts, and evaluate whether the output answers the question.
+[Team repository](https://github.com/damianleng/food-bridge) · [Hackathon submission](https://devpost.com/software/food-bridge-isqzu0)
 
-For Costos, that meant checking tables and charts against source records and following up when the numbers did not match. In statistics and machine learning, I use AI to help work through code and explanations, then examine assumptions, compare results, and interpret what a chart or model can tell us. This is a habit I am continuing to develop in my coursework.
+<a id="internship-experience"></a>
 
-I also enjoy presenting ideas with a team. In the Goldman Sachs student case competition, I led a five-person team comparing options for a fictional university's endowment and helping present our findings and recommendations.
-
-For the full experience details, you can read my résumé above or explore the **[interactive CV app's code](https://github.com/edu-sal/interactive-cv-dashboard)**.
-
-## Internship experience
+## Experience
 
 ### Curfimex S.A. de C.V.
 
@@ -80,15 +78,6 @@ For the full experience details, you can read my résumé above or explore the *
 - Created Python dashboards and Excel summaries with Codex as the primary coding assistant, refining prompts around research questions and reported figures.
 - Communicated market research findings to the project team through charts and presentation slides.
 
-## Student projects
-
-### George Hacks x UN Reboot the Earth Hackathon - FoodBridge
-
-**Business & Presentation Contributor** · Apr 2026
-
-- Collaborated with software engineering students on FoodBridge, an AI-powered meal-planning prototype, using AI tools to help refine its business concept and presentation.
-- Presented FoodBridge with the team; the team placed 1st in the hackathon's UN/FAO track.
-
 ### Goldman Sachs Case Competition - American University
 
 **Team Lead (Student Case Competition)** · Apr 2026
@@ -96,4 +85,4 @@ For the full experience details, you can read my résumé above or explore the *
 - Led a five-person team in a student case competition about a fictional university's endowment and funding needs.
 - Compared options with teammates against the case's budget and restrictions; presented findings and recommendations.
 
-Thanks for visiting. I'm happy to talk about a project here or connect with people working in data analysis, statistics, and visualization.
+[Résumé (PDF)](https://github.com/edu-sal/edu-sal/blob/main/Eduardo_Salgado_Liceaga_Resume.pdf) · [Interactive CV app's code](https://github.com/edu-sal/interactive-cv-dashboard)
