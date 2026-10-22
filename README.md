@@ -10,6 +10,15 @@ I'm eager to put these skills to work, keep learning from the people around me, 
 
 [Résumé (PDF)](https://github.com/edu-sal/edu-sal/blob/main/Eduardo_Salgado_Liceaga_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/edu-sal/) · [Email](mailto:eddy9202003@gmail.com)
 
+## Academic foundations
+
+My coursework at American University covers:
+
+- **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression.
+- **Computing and data:** Data Mining, Machine Learning, Advanced Machine Learning, Neural Networks and Deep Learning, Database Design, and SQL.
+
+These are subjects I've studied or am studying through coursework. I'm still building experience applying that foundation beyond the classroom.
+
 ## Take a look at Costos
 
 **[Costos](https://github.com/edu-sal/costos-dashboard)** grew out of my Curfimex internship, where I worked with Excel cost records from tanning and leather-processing operations. I used Codex as the primary coding assistant, supplying context about the records and cost categories, refining prompts, and checking the resulting tables and charts.
