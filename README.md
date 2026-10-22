@@ -15,20 +15,20 @@ My work combines data analysis, substantial AI assistance for coding, and checki
 
 Faculty mentor: [Dr. Zois Boukouvalas](https://www.american.edu/cas/mathstat/faculty/), Graduate Director of AU's MS in Data Science and MS in Artificial Intelligence programs.
 
-- Adapted a Python matrix-factorization baseline using MovieLens ratings with AI as the primary coding assistant; documented the model and evaluation in Jupyter.
-- Ran experiments with three random seeds and interpreted rating-prediction error, top-10 recommendation quality, and the range of movies recommended using tables and plots.
+- Adapted a PyTorch logistic matrix-factorization recommender using MovieLens 100K with AI as the primary coding assistant; documented the model and evaluation in Jupyter.
+- Compared ranking quality, recommendation popularity, and catalog coverage across five random seeds, evaluating a post-training popularity adjustment against the baseline.
 - Reviewed research literature and discussed experimental methods, findings, and limitations with faculty mentor.
+
+The completed experiment adjusted recommendation scores after training. Across five paired seeds, average recommendation popularity fell by about 23%, while about 99% of baseline NDCG@10 ranking quality was retained. These are offline MovieLens results. My DATA-442 extension proposes adding a popularity penalty during training; that experiment is still proposed.
 
 ## Academic foundations
 
-Subjects I've studied or am studying at American University:
+My AU coursework provides a foundation for interpreting models and checking results. CSC-480 (Introduction to Data Mining) supports my work in DATA-442 (Advanced Machine Learning).
 
-- **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression.
-- **Computing and data:** Data Mining, Machine Learning, Advanced Machine Learning, Neural Networks and Deep Learning, Database Design, and SQL.
-- **Optimization:** Gradients, regularization, and Lagrange multipliers (theory); non-convex optimization in matrix-factorization recommender systems.
-- **Machine-learning methods:** Data preprocessing, feature-engineering fundamentals, cross-validation, and model evaluation.
-
-This is academic preparation; I'm continuing to build experience applying it beyond the classroom.
+- **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression. Most of this preparation is theoretical.
+- **Machine learning:** Data Mining, Machine Learning, Advanced Machine Learning, and Neural Networks/Deep Learning. Coursework covers preprocessing, feature engineering, cross-validation, PCA, regularization, and the bias-variance tradeoff.
+- **Computing and data:** Big Data Computing, Database Design, and SQL. My R and Apache Spark experience comes from coursework and class exercises.
+- **Optimization:** I have applied selected ideas through non-convex matrix-factorization research with Zois, including gradient-based training, regularization, and model evaluation. Constrained optimization and Lagrange multipliers are part of my theoretical study.
 
 <a id="take-a-look-at-costos"></a>
 
