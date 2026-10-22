@@ -18,6 +18,8 @@ My coursework at American University covers:
 - **Computing and data:** Data Mining, Machine Learning, Advanced Machine Learning, Neural Networks and Deep Learning, Database Design, and SQL.
 - **Optimization (academic study):** Gradients, regularization, and Lagrange multipliers (theory); non-convex optimization in matrix-factorization recommender systems.
 
+- **Machine-learning methods (coursework):** Data preprocessing, feature-engineering fundamentals, cross-validation, and model evaluation.
+
 These are subjects I've studied or am studying through coursework. I'm still building experience applying that foundation beyond the classroom.
 
 ## Take a look at Costos
@@ -75,8 +77,11 @@ For the full experience details, you can read my résumé above or explore the *
 
 **Undergraduate Research Assistant (Part-Time)** · May 2026 - Aug 2026
 
+Faculty mentor: [Dr. Zois Boukouvalas](https://www.american.edu/cas/mathstat/faculty/), Graduate Director of AU's MS in Data Science and MS in Artificial Intelligence programs.
+
 - Adapted a Python matrix-factorization baseline using MovieLens ratings with AI as the primary coding assistant, documenting the model and evaluation in a Jupyter notebook.
 - Ran experiments with three random seeds and interpreted rating-prediction error, top-10 recommendation quality, and the range of movies recommended using tables and plots.
+- Reviewed literature on recommendation models and popularity bias, and discussed experimental methods, findings, and limitations with my faculty mentor.
 
 ### George Hacks x UN Reboot the Earth Hackathon - FoodBridge
 
