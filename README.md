@@ -37,7 +37,7 @@ For the full experience details, you can read my résumé above or explore the *
 
 - Compiled and cleaned production and material-cost data from company Excel files using Python.
 - Developed Dash and Plotly dashboards to compare costs by month, customer, and batch, with Codex assistance for coding and debugging.
-- Identified materials contributing most to production costs using Pareto (80/20) charts and prepared monthly Excel summaries.
+- Created Pareto (80/20) charts to highlight the largest material costs and prepared monthly Excel summaries.
 
 ### FinEx Concierge Solutions, LLC
 
