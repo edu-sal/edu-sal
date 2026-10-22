@@ -1,20 +1,33 @@
 # Hi, I'm Eduardo
 
-I'm a senior at American University studying **Statistics**, with a specialization in **Applied Statistics** and a **Mathematics minor**. I expect to graduate in May 2027. My GPA is **3.91**.
+I'm a Statistics senior at American University, graduating in May 2027. My focus is Applied Statistics, with a minor in Mathematics.
 
-I like working through data questions with Python, from getting data out of Excel files and PDFs to cleaning it, making charts, and comparing results. This GitHub brings together things I've worked on in internships, research, and classes. I use Codex for coding and debugging assistance.
+I like making sense of data that starts out in a less convenient form: an Excel workbook, a PDF report, or a table that needs cleaning. The part I enjoy is getting from those records to a chart or comparison I can explain to someone else.
 
-[LinkedIn](https://linkedin.com/in/edu-sal) · [Interactive CV](https://github.com/js0596a/interactive-cv-dashboard) · [Email](mailto:js0596a@american.edu)
+My internships have involved production and cost data at Curfimex and a brief market research project using ABCA reports at FinEx. I've also worked with movie-rating data as a part-time undergraduate research assistant. This is where I share the projects I can show publicly.
 
-## Start here: Costos
+[Résumé (PDF)](https://github.com/edu-sal/edu-sal/blob/main/Eduardo_Salgado_Liceaga_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/edu-sal/) · [Email](mailto:eddy9202003@gmail.com)
 
-[**Costos Dashboard Demo**](https://github.com/js0596a/costos-dashboard) is a public demo adapted from the cost-analysis app I worked on during my Curfimex internship. It uses Python, Dash, and Plotly to explore monthly material costs, compare customers and batches, and make Pareto (80/20) charts.
+## Take a look at Costos
 
-The demo and the screenshots below use **synthetic data**. Company records are kept private.
+During my Curfimex internship, I used Python to organize Excel records and built Dash and Plotly dashboards to explore them. **[Costos](https://github.com/edu-sal/costos-dashboard)** is a small public demo of that work.
 
-![Costos demo: monthly cost overview using synthetic data](https://raw.githubusercontent.com/js0596a/costos-dashboard/main/assets/screenshots/overview.png)
+You can compare costs across months, customers, and batches, see which materials account for most spending, and download Excel summaries. The demo and screenshots use **made-up data**; company records stay private.
 
-![Costos demo: material spending and Pareto chart using synthetic data](https://raw.githubusercontent.com/js0596a/costos-dashboard/main/assets/screenshots/pareto.png)
+[![Costos monthly cost overview — synthetic data](https://raw.githubusercontent.com/edu-sal/costos-dashboard/main/assets/screenshots/overview.png)](https://github.com/edu-sal/costos-dashboard)
+
+[See the code and more screenshots →](https://github.com/edu-sal/costos-dashboard)
+
+## A bit more about my work
+
+I work mainly with Python, Excel, pandas, Dash, and Plotly, and use Codex for coding and debugging assistance. In class, I'm continuing to study statistics and machine learning; SQL is part of my current coursework.
+
+I've also enjoyed working on the presentation side of student projects. For FoodBridge, I worked with software engineering students on the business concept and hackathon presentation. In the Goldman Sachs student case competition, I led a five-person team discussing a fictional university's endowment and funding needs.
+
+For the full experience details, you can read my résumé above or explore the **[interactive CV app's code](https://github.com/edu-sal/interactive-cv-dashboard)**.
+
+<details>
+<summary>Internships, research, and student projects</summary>
 
 ## Internship experience
 
@@ -57,14 +70,6 @@ The demo and the screenshots below use **synthetic data**. Company records are k
 - Led a five-person student team in a case competition about a fictional university's endowment and funding needs.
 - Assessed investment options with teammates against the case's budget needs and investment restrictions, and presented the team's recommendations.
 
-## What I'm learning and using
+</details>
 
-**Tools:** Python, R, pandas, NumPy, openpyxl, Excel, Power BI, Plotly, Dash, Git/GitHub, and Codex. SQL is part of my coursework.
-
-**Methods:** Excel/PDF data extraction, data cleaning, exploratory analysis, descriptive statistics, regression, data visualization, and model evaluation.
-
-I've completed coursework in probability, mathematical statistics, regression, linear algebra, algorithms and data structures, scientific computing, data mining, machine learning, and neural networks/deep learning. This semester I'm taking Database and AI (SQL), Numerical Analysis, and Advanced Machine Learning.
-
-Thanks for stopping by. Feel free to look around or get in touch about internships, research, or a project here.
-
-
+Thanks for visiting. I'm happy to talk about a project here or connect with people working in data analysis, statistics, and visualization.
