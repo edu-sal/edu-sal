@@ -4,11 +4,23 @@ I'm a Statistics senior at American University, graduating in May 2027. My focus
 
 I like making sense of data that starts out in a less convenient form: an Excel workbook, a PDF report, or a table that needs cleaning. The part I enjoy is getting from those records to a chart or comparison I can explain to someone else.
 
-My internships have involved production and cost data at Curfimex and a brief market research project using ABCA reports at FinEx. I've also worked with movie-rating data as a part-time undergraduate research assistant. This is where I share the projects I can show publicly.
+My internships have involved production and cost data at Curfimex and a brief market research project using ABCA reports at FinEx. My part-time research involved movie-rating data, reviewing research literature, and explaining experimental methods and findings to my faculty mentor. This is where I share the projects I can show publicly.
 
 I'm eager to put these skills to work, keep learning from the people around me, and help a team turn analysis into findings others can understand and use.
 
 [Résumé (PDF)](https://github.com/edu-sal/edu-sal/blob/main/Eduardo_Salgado_Liceaga_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/edu-sal/) · [Email](mailto:eddy9202003@gmail.com)
+
+## Research with Dr. Zois Boukouvalas
+
+American University — Department of Mathematics and Statistics
+
+**Undergraduate Research Assistant (Part-Time)** · May 2026 - Aug 2026
+
+Faculty mentor: [Dr. Zois Boukouvalas](https://www.american.edu/cas/mathstat/faculty/), Graduate Director of AU's MS in Data Science and MS in Artificial Intelligence programs.
+
+- Adapted a Python matrix-factorization baseline using MovieLens ratings with AI as the primary coding assistant; documented the model and evaluation in Jupyter.
+- Ran experiments with three random seeds and interpreted rating-prediction error, top-10 recommendation quality, and the range of movies recommended using tables and plots.
+- Reviewed research literature and discussed experimental methods, findings, and limitations with my faculty mentor.
 
 ## Academic foundations
 
@@ -50,9 +62,6 @@ I also enjoy presenting ideas with a team. In the Goldman Sachs student case com
 
 For the full experience details, you can read my résumé above or explore the **[interactive CV app's code](https://github.com/edu-sal/interactive-cv-dashboard)**.
 
-<details>
-<summary>Internships, research, and student projects</summary>
-
 ## Internship experience
 
 ### Curfimex S.A. de C.V.
@@ -68,35 +77,23 @@ For the full experience details, you can read my résumé above or explore the *
 **Data Analyst Intern (Part-Time, Unpaid)** · May 2025 - Aug 2025
 
 - Extracted and organized data from ABCA PDF reports for a brief cannabis market research project.
-- Created Python dashboards and Excel summaries with Codex as the primary coding assistant, refining prompts around the research questions and reported figures.
-- Communicated market research findings through charts and presentation slides for review with the project team.
+- Created Python dashboards and Excel summaries with Codex as the primary coding assistant, refining prompts around research questions and reported figures.
+- Communicated market research findings to the project team through charts and presentation slides.
 
-## Research and student projects
-
-### American University - Department of Mathematics and Statistics
-
-**Undergraduate Research Assistant (Part-Time)** · May 2026 - Aug 2026
-
-Faculty mentor: [Dr. Zois Boukouvalas](https://www.american.edu/cas/mathstat/faculty/), Graduate Director of AU's MS in Data Science and MS in Artificial Intelligence programs.
-
-- Adapted a Python matrix-factorization baseline using MovieLens ratings with AI as the primary coding assistant, documenting the model and evaluation in a Jupyter notebook.
-- Ran experiments with three random seeds and interpreted rating-prediction error, top-10 recommendation quality, and the range of movies recommended using tables and plots.
-- Reviewed literature on recommendation models and popularity bias, and discussed experimental methods, findings, and limitations with my faculty mentor.
+## Student projects
 
 ### George Hacks x UN Reboot the Earth Hackathon - FoodBridge
 
 **Business & Presentation Contributor** · Apr 2026
 
 - Collaborated with software engineering students on FoodBridge, an AI-powered meal-planning prototype, using AI tools to help refine its business concept and presentation.
-- Presented FoodBridge with the team at a student hackathon, where the team placed 1st in the UN/FAO track.
+- Presented FoodBridge with the team; the team placed 1st in the hackathon's UN/FAO track.
 
 ### Goldman Sachs Case Competition - American University
 
 **Team Lead (Student Case Competition)** · Apr 2026
 
-- Led a five-person student team in a case competition about a fictional university's endowment and funding needs.
-- Collaborated with teammates to compare investment options against the case's budget and restrictions, then presented the team's findings and recommendations.
-
-</details>
+- Led a five-person team in a student case competition about a fictional university's endowment and funding needs.
+- Compared options with teammates against the case's budget and restrictions; presented findings and recommendations.
 
 Thanks for visiting. I'm happy to talk about a project here or connect with people working in data analysis, statistics, and visualization.
