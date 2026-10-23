@@ -50,7 +50,7 @@ A public demo adapted from my Curfimex internship: compare monthly costs across 
 
 ## FoodBridge
 
-**George Hacks x UN Reboot the Earth Hackathon**  
+**George Hacks Hackathon**  
 **Business & Presentation Contributor** · Apr 2026
 
 - Collaborated with software engineering students on FoodBridge, an AI-powered meal-planning prototype, using AI tools to help refine its business concept and presentation.
