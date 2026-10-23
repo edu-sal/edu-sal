@@ -23,10 +23,12 @@ The completed experiment adjusted recommendation scores after training. Across f
 
 ## Academic foundations
 
-My AU coursework provides a foundation for interpreting models and checking results. CSC-480 (Introduction to Data Mining) supports my work in DATA-442 (Advanced Machine Learning).
+My completed Introduction to Data Mining coursework supports the Advanced Machine Learning course I'm taking now. These are academic foundations I use to reason about models and check results.
 
 - **Mathematics and statistics:** Linear Algebra, Numerical Linear Algebra, Probability Theory, Multivariate Calculus, Mathematical Statistics, and Regression. Most of this preparation is theoretical.
-- **Machine learning:** Data Mining, Machine Learning, Advanced Machine Learning, and Neural Networks/Deep Learning. Coursework covers preprocessing, feature engineering, cross-validation, PCA, regularization, and the bias-variance tradeoff.
+- **Preparing and evaluating models:** Preprocessing, feature engineering, cross-validation, model selection, and classification/regression metrics. The focus is on avoiding data leakage and explaining the bias-variance tradeoff.
+- **Machine-learning methods studied:** Ridge, LASSO, and elastic-net regularization; PCA and dimensionality reduction; kernel methods, support vector machines, and support vector regression. My coursework also includes neural networks and deep learning.
+- **Advanced ML topics:** Sparsity-aware learning and latent-variable methods (ICA, CCA, and IVA), including their assumptions and limitations. These are topics I've studied in coursework.
 - **Computing and data:** Big Data Computing, Database Design, and SQL. My R and Apache Spark experience comes from coursework and class exercises.
 - **Optimization:** I have applied selected ideas through non-convex matrix-factorization research with Zois, including gradient-based training, regularization, and model evaluation. Constrained optimization and Lagrange multipliers are part of my theoretical study.
 
